@@ -23,3 +23,9 @@ The app sends the data to ChatGPT (OpenAI API) using the provided API key.
 The API responds with detailed nutritional information.
 
 The app displays the results in a simple and clear interface
+
+⚙️ Environment Setup
+
+Create a .env file in the project root and add the following line:
+
+OPENAI_API_KEY=your_api_key_here
